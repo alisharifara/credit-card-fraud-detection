@@ -1,4 +1,4 @@
-# credit card fraud detection
+# Credit card fraud detection
 This project is for credit card fraud detection based on a dataset which is available on Kaggle.com
 
 The dataset heavily contains imbalanced data. In other words, there are two different classes: Fraud (1) and Non-Fraud (0) transactions.
